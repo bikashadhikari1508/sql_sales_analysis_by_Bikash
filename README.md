@@ -44,5 +44,3 @@ SQL_Sales_analysis/
 - CASE statements
 
 ---
-
-
